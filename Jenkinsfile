@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('SCM'){
       steps{
-        echo "This is hello world"
+        echo "This is hello world - Java Home"
       }
     }
   }
