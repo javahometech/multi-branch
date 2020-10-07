@@ -34,7 +34,7 @@ pipeline{
         branch 'release'
       }
       steps{
-        echo "deploy to dev"
+        echo "deploy to QA"
       }
     }
     
